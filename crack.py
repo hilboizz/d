@@ -567,7 +567,7 @@ def passwrd():
 					if len(frs)<3:
 						pass
 					else:
-							pwv.append(nmf)
+						pwv.append(nmf)
 						pwv.append(frs+'321')
 						pwv.append(frs+'123')
 						pwv.append(frs+'1234')
